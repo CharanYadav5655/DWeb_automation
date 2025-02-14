@@ -1,1 +1,1 @@
-DWEB_Automation for Slot Booking.
+DWEB and MWEB Automation for Slot Booking.
